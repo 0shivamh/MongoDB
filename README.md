@@ -9,9 +9,8 @@ MongoDB is an open-source document database and leading NoSQL database that stor
 
 Install MongoDB in Ubuntu or in Debian based Linux distro.
 
-```bash
 [installation doc](https://docs.mongodb.com/manual/installation/)
-```
+
 
 ## Can be used with
 

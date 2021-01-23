@@ -48,5 +48,91 @@
         "Book":"Microprocessor",
         "availability":"true",
         "Shell_No":4
+    },
+    {
+        "Book":"Software Engineering",
+        "availability":"true",
+        "Shell_No":4
+    },
+    {
+        "Book":"Advanced Java",
+        "availability":"true",
+        "Shell_No":5
+    },
+    {
+        "Book":"Software Testing",
+        "availability":"true",
+        "Shell_No":5
+    },
+    {
+        "Book":"Python Programming",
+        "availability":"true",
+        "Shell_No":6
+    },
+    {
+        "Book":"Mobile Application Development",
+        "availability":"false",
+        "Shell_No":6
+    },
+    {
+        "Book":"Web Development with PHP",
+        "availability":"true",
+        "Shell_No":6
+    },
+    {
+        "Book":"Emerging Tech",
+        "availability":"false",
+        "Shell_No":6
+    }
+    ,
+    {
+        "Book":"Ruby Programming",
+        "availability":"true",
+        "Shell_No":6
+    },
+    {
+        "Book":"Kotlin",
+        "availability":"false",
+        "Shell_No":0
+    },
+    {
+        "Book":"Web Development with MERN",
+        "availability":"false",
+        "Shell_No":0
+    },
+    {
+        "Book":"IOT",
+        "availability":"false",
+        "Shell_No":0
+    },
+    {
+        "Book":"Mongo",
+        "availability":"false",
+        "Shell_No":0
+    },
+    {
+        "Book":"MEAN Stack",
+        "availability":"true",
+        "Shell_No":8
+    },
+    {
+        "Book":"Data Science",
+        "availability":"true",
+        "Shell_No":10
+    },
+    {
+        "Book":"Machine Learning",
+        "availability":"true",
+        "Shell_No":10
+    },
+    {
+        "Book":"Neural Network",
+        "availability":"false",
+        "Shell_No":0
+    },
+    {
+        "Book":"information Security",
+        "availability":"true",
+        "Shell_No":1
     }
 ]

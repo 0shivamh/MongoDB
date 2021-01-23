@@ -1,0 +1,52 @@
+[
+    {
+        "Book":"DBMS",
+        "availability":"true",
+        "Shell_No":2
+    },
+    {
+        "Book":"ACN",
+        "availability":"false",
+        "Shell_No":0
+    },
+    {
+        "Book":"DCC",
+        "availability":"true",
+        "Shell_No":3
+    },
+    {
+        "Book":"CGR",
+        "availability":"false",
+        "Shell_No":0
+    },
+    {
+        "Book":"JAVA",
+        "availability":"true",
+        "Shell_No":3
+    },
+    {
+        "Book":"DSA",
+        "availability":"true",
+        "Shell_No":2
+    },
+    {
+        "Book":"C by Dennis Ritchie",
+        "availability":"true",
+        "Shell_No":1
+    },
+    {
+        "Book":"HTML CSS JS",
+        "availability":"true",
+        "Shell_No":1
+    },
+    {
+        "Book":"Basic Electronic",
+        "availability":"false",
+        "Shell_No":0
+    },
+    {
+        "Book":"Microprocessor",
+        "availability":"true",
+        "Shell_No":4
+    }
+]
